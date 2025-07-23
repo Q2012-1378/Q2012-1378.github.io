@@ -9,7 +9,7 @@ redirect_from:
 洛谷
 
 https://www.luogu.com.cn/
-
+/n
 deepseek
 
 https://chat.deepseek.com/
